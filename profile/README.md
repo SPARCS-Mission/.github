@@ -5,9 +5,9 @@ SPARCS is a multidisciplinary mission in the form of a CubeSat, carried out by a
 Developing, constructing, and testing CubeSats is a challenging endeavor, but we're on our way to space! Join us on this exciting journey, regardless of your affiliation with iSSS—we welcome your contribution.
 
 This project includes the following general phases:
-1. [Conceptual Design](https://github.com/SPARCS-Mission/Conceptual-Design)
-2. [Preliminary Design](https://github.com/SPARCS-Mission/Preliminary-Design)
-3. [Detailed Design](https://github.com/SPARCS-Mission/Detailed-Design)
+1. [Conceptual Design](/SPARCS-Mission/Conceptual-Design)
+2. [Preliminary Design](/SPARCS-Mission/Preliminary-Design)
+3. [Detailed Design](/SPARCS-Mission/Detailed-Design)
 4. Assembly, Integration & Test
 5. Launch
 6. In-Orbit Mission
