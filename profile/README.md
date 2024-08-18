@@ -18,3 +18,23 @@ This mission is for research and technology development purposes. All data and i
 **Here's how to [Get Started!](https://github.com/sparcs-mission/getting-started)**
 
 For further contact, email us at sparcs.mission@gmail.com.
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="image/SPARCS-A.gif" width="400px"/>
+      <br>
+      <figcaption>SPARCS-A 3D Model.</figcaption>
+    </td>
+  </tr>
+</table> <table>
+  <tr>
+    <td align="center">
+      <img src="image/SPARCS-B.gif" width="400px"/>
+      <br>
+      <figcaption>SPARCS-B 3D Model.</figcaption>
+    </td>
+  </tr>
+</table>
+</dev>
