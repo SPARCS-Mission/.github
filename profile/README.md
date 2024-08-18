@@ -27,9 +27,6 @@ For further contact, email us at sparcs.mission@gmail.com.
       <br>
       <figcaption>SPARCS-A 3D Model.</figcaption>
     </td>
-  </tr>
-</table> <table>
-  <tr>
     <td align="center">
       <img src="image/SPARCS-B.gif" width="400px"/>
       <br>
